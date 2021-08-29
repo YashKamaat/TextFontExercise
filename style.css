@@ -1,0 +1,52 @@
+/* Font Family Import */
+@import url('https://fonts.googleapis.com/css2?family=Cairo&family=Orbitron:wght@400;700&display=swap');
+
+/* 3 */
+span{
+    font-weight: 700;
+}
+
+/* 4 */
+h1{
+    font-size: 50px;
+}
+
+/* 5 */
+h1 {
+    letter-spacing: 10px;
+    } 
+
+/* 6 */
+ h1{
+    text-align: center;
+    }
+
+/* 7 */
+h1{
+    text-transform: uppercase;
+    }
+
+/* 8 */
+h1{
+    text-decoration: underline;
+}
+/* 9 */
+div{
+font-size: 20px;
+}
+/* 10 */
+h2{
+font-size: 2em;
+}
+/* 11 */
+li{
+    line-height: 2;
+}
+/* 12 */
+#div-characters{
+    font-size: 18px;
+}
+/* 13 */
+h4{
+    letter-spacing: 15px;
+}

@@ -1,37 +1,32 @@
-/* Font Family Import */
-@import url('https://fonts.googleapis.com/css2?family=Cairo&family=Orbitron:wght@400;700&display=swap');
+/* Bonus 1 */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* 2 */
+html{
+    font-family: 'Cairo', sans-serif;
+font-family: 'Orbitron', sans-serif;
+}
 
 /* 3 */
-span{
+span {
     font-weight: 700;
 }
 
 /* 4 */
 h1{
     font-size: 50px;
-}
-
-/* 5 */
-h1 {
+    /* 5 */
     letter-spacing: 10px;
-    } 
-
 /* 6 */
- h1{
-    text-align: center;
-    }
-
+ text-align: center;
 /* 7 */
-h1{
-    text-transform: uppercase;
-    }
-
+ text-transform: uppercase;
 /* 8 */
-h1{
     text-decoration: underline;
 }
+
 /* 9 */
-div{
+#series-movies{
 font-size: 20px;
 }
 /* 10 */
@@ -43,10 +38,38 @@ li{
     line-height: 2;
 }
 /* 12 */
-#div-characters{
+#characters {
     font-size: 18px;
 }
 /* 13 */
-h4{
+h4 {
     letter-spacing: 15px;
+}
+
+/* BONUS */
+/* 1 import top of CSS */
+/* 2 */
+h4{
+    font-family: 'Press Start 2P', cursive;
+}
+/* 3 */
+h2, h3, h4 {
+    text-align: center;
+}
+/* 4 */
+li {
+    font-size: 1rem;
+}
+/* 5 */
+html{
+    background-image: url(starTrek.jpg)
+
+/* body{ */
+    background-image: url(starTrek.jpg); */
+
+/* 6 */
+color: rgba(255,255,255,0.6);
+/* 7 */
+background-size: cover;
+background-position: center;
 }

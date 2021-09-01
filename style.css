@@ -62,10 +62,10 @@ li {
 }
 /* 5 */
 html{
-    background-image: url(starTrek.jpg)
+    /* background-image: url(starTrek.jpg) */
 
 /* body{ */
-    background-image: url(starTrek.jpg); */
+    background-image: url(starTrek.jpg); 
 
 /* 6 */
 color: rgba(255,255,255,0.6);
